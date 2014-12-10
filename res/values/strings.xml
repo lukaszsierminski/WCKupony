@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kupony Wild Chicken</string>
+    <string name="action_settings">Settings</string>
+    <string name="splash_screen_desc">Wild Chicken</string>
+    <string name="tickets">Kupony</string>
+    <string name="facebook_loading">Wczytuję profil...</string>
+
+</resources>
